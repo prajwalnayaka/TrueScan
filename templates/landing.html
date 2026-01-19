@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %}Welcome to TrueScan{% endblock %}
+
+{% block content %}
+<div class="container py-5 text-center">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+
+            <img src="{{ url_for('static', filename='logo.png') }}" alt="TrueScan Logo" style="height: 100px; margin-bottom: 2rem;">
+
+            <h1 class="welcome-text-landing mb-3">Welcome to TrueScan</h1>
+            <h3 class="tagline mb-5">Enhancing Diagnostic Integrity with AI Analysis</h3>
+            <br></br>
+            <p class="fs-3 text-muted">
+                In an era of advanced digital imaging, the potential for altered or fabricated medical scans poses a significant risk to diagnostics and patient care.</p>
+            <p class="fs-3 text-muted"> TrueScan provides an instant, reliable solution by leveraging an ensemble of trained specialist AI models to deliver precise authenticity analysis of medical scans.</p>
+        </div>
+    </div>
+</div>
+{% endblock %}
