@@ -27,6 +27,7 @@ If you want this project on your local machine
  cd Python_Scripts
  python app.py OR flask run
 ```
+**Important Note**: This repo does NOT include the trained models because of the size limit. You can download the models from this [Google Drive](https://drive.google.com/drive/folders/1b9jZsx7kUbaTyNoDIdPPbtE5Ds3LdvE8?usp=sharing). Replace the path to the models accordingly in test.py.
 
 ## Authors
 
