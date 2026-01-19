@@ -30,7 +30,7 @@ def login():
 @requires_auth
 def admin():
     user = get_user_info()
-    admin_emails = ['pragyamvikram@gmail.com', 'prajwalnayakat@gmail.com']
+    admin_emails = ['dummy1@gmail.com', 'dummy2@gmail.com']
 
     if user['email'] not in admin_emails:
         flash('Access denied. Admin privileges required.')
@@ -50,7 +50,7 @@ def admin():
 @requires_auth
 def add_doctor_admin():
     user = get_user_info()
-    admin_emails = ['pragyamvikram@gmail.com', 'prajwalnayakat@gmail.com']
+    admin_emails = ['dummy1@gmail.com', 'dummy2@gmail.com']
 
     if user['email'] not in admin_emails:
         return redirect(url_for('dashboard'))
