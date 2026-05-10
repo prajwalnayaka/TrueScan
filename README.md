@@ -94,3 +94,38 @@ python app.py
 - Train on a larger, more diverse dataset across multiple human anatomical regions
 - Add Grad-CAM visualizations so clinicians can see which regions triggered the prediction
 - Explore diffusion-model-generated fakes, which are harder to detect than GAN-generated ones
+
+---
+
+## Screenshots
+### Landing page
+<img width="1918" height="970" alt="landing_page" src="https://github.com/user-attachments/assets/2e302822-d493-4b13-808b-ea66ba212046" />
+
+### User Authentication 
+<img width="1918" height="968" alt="user_auth" src="https://github.com/user-attachments/assets/9d074bb9-8f5a-49a0-aa59-3444986a3b95" />
+
+### Dashboard
+<img width="1918" height="970" alt="dashboard" src="https://github.com/user-attachments/assets/70f522e5-3f0e-479e-a560-b427aafec6da" />
+
+### Scan Selection
+<img width="1918" height="970" alt="scan_selection" src="https://github.com/user-attachments/assets/2b3dd2de-5581-4698-a22c-8a1c84064d94" />
+
+### Analyzing Screen
+<img width="1918" height="967" alt="analyzing" src="https://github.com/user-attachments/assets/5159b032-2f3c-4a1e-a170-24f1ea0fc256" />
+
+### Analysis Page
+<img width="1918" height="968" alt="anaysis_page" src="https://github.com/user-attachments/assets/9292b8b6-f6e2-4914-a7ab-0de912002eb2" />
+
+### Report Form 
+<img width="1918" height="958" alt="report_form" src="https://github.com/user-attachments/assets/fe9898a5-8ae3-4a31-8706-d6a8798724cd" />
+
+### Report
+<img width="472" height="547" alt="Report" src="https://github.com/user-attachments/assets/3a4ddef7-3bee-430d-be65-df89a8187662" />
+
+
+
+
+
+
+
+
