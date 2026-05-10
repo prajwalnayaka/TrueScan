@@ -4,6 +4,8 @@ TrueScan is a deep learning-powered system that detects AI-generated or manipula
 and classifies them for anomalies. It uses an ensemble of three state-of-the-art CV models
 served through a full-stack clinical web dashboard.
 
+---
+>  🏆 **3rd Place — ML/DL Track** | State Level Inter-Collegiate Tech Exhibition at AIT, CKM 
 
 ---
 
@@ -54,8 +56,8 @@ model's blind spots affecting the outcome.
 **ML:** PyTorch, Ultralytics YOLOv8, ONNX  
 **Backend:** Flask, Python  
 **Frontend:** HTML/CSS/JS  
-**Database:** [SQLite / PostgreSQL]  
-**Deployment:** [Local / Hosted URL if available]
+**Database:** Supabase
+**Deployment:** Local deployment only
 
 ---
 
