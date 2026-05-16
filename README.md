@@ -70,7 +70,7 @@ cd Python_Scripts
 python app.py
 ````
 
-**Note:** Trained model weights are not included due to file size. Download from [Google Drive](https://drive.google.com/drive/folders/1b9jZsx7kUbaTyNoDIdPPbtE5Ds3LdvE8?usp=sharing) and update the model paths in `test.py` accordingly.
+**Note:** Trained model weights are not included due to file size. Download them from this [Google Drive](https://drive.google.com/drive/folders/1b9jZsx7kUbaTyNoDIdPPbtE5Ds3LdvE8?usp=sharing) and update the model paths in `test.py` accordingly.
 
 
 ---
