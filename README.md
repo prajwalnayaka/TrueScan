@@ -45,8 +45,8 @@ model's blind spots affecting the outcome.
 
 All three models achieve near-perfect classification on the evaluation set 
 (ResNet50: 98% F1, VGG19_BN: 100% F1). These numbers are not meaningful 
-benchmarks — the dataset consists of GAN-generated images with pronounced 
-visual artifacts that are trivially detectable by any modern CNN. With all honesty, the 
+benchmarks; the dataset consists of GAN-generated images with pronounced 
+visual artifacts that are trivially detectable by any modern CNN and . With all honesty, the 
 figures are statistically unreliable.
 
 The value of TrueScan lies in the ensemble architecture, inference pipeline, 
