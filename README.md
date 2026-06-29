@@ -67,7 +67,7 @@ samples and a significantly larger test set, which remains future work.
 
 ## Tech Stack
 
-**ML:** PyTorch, Ultralytics YOLOv8, ONNX  
+**ML:** PyTorch, Ultralytics YOLOv8
 **Backend:** Flask, Python  
 **Frontend:** HTML/CSS/JS  
 **Database:** Supabase
